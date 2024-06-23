@@ -1,5 +1,5 @@
 
-![Alt text]/(rennieG.png)
+![Alt text](rennieG.png)
 
 # Static Website Hosting on AWS
 
