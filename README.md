@@ -1,9 +1,12 @@
+
+![Alt text]/(host a static file architecture.png)
+
 # Static Website Hosting on AWS
 
 This project demonstrates how I hosted a static HTML web app called rennieG on AWS using various AWS resources to ensure high availability, fault tolerance, and scalability. I have for you below a detailed description of the infrastructure setup and the deployment process.
 
 ## Infrastructure Overview
-![Alt text]/host a static file architecture.png
+
 ### VPC and Subnets
 - **VPC**: Created a Virtual Private Cloud (VPC) with both public and private subnets spread across two availability zones (AZs) to ensure high availability.
 - **Subnets**: Public subnets are used for resources that need direct access to the internet, while private subnets are used for internal resources such as web servers and database servers.
