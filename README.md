@@ -2,6 +2,7 @@
 # Static Website Hosting on AWS
 
 This project demonstrates how I hosted a static HTML web app called rennieG on AWS using various AWS resources to ensure high availability, fault tolerance, and scalability. I have for you below a detailed description of the infrastructure setup and the deployment process.
+
 ![Alt text](rennieG.png "RennieG App Infrastructure on AWS")
 
 ## Infrastructure Overview
